@@ -1,13 +1,12 @@
 # 💼 Employee Salary Prediction 
 
-## 🎯 Objective
 
+## 🎯 Objective
 The primary objective of this project is to analyze demographic and work-related attributes to **predict whether an individual earns more than $50,000 annually**. Using the Adult Census Income dataset, this project demonstrates the complete machine learning workflow — from data cleaning to model deployment.
 
+
 ## 📊 Dataset Overview
-
 The dataset contains information on over 48,000 individuals, including features like:
-
 - Age
 - Education Level
 - Occupation
@@ -22,10 +21,9 @@ The dataset contains information on over 48,000 individuals, including features 
 - [UCI Machine Learning Repository](https://archive.ics.uci.edu/dataset/2/adult)  
 - [Kaggle - Adult Income Dataset](https://www.kaggle.com/datasets/wenruliu/adult-income-dataset)
 
+
 ## 🔍 Methodology
-
 Our pipeline is organized as follows:
-
 1. **Data Loading & Inspection**
    - Loaded dataset into Pandas DataFrame
    - Identified data types, null values, and distribution
@@ -83,6 +81,7 @@ employee-salary-prediction/
 
 ````
 
+
 ## 🚀 Getting Started
 
 ### Prerequisites
@@ -90,7 +89,6 @@ employee-salary-prediction/
 - Adult Census Income dataset (adult.csv)
 
 ### Installation
-
 ```bash
 git clone https://github.com/AnamMalikk/employee-salary-prediction.git
 cd employee-salary-prediction
@@ -107,7 +105,7 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
----
+
 
 ## 📝 Sample Input Format
 
@@ -142,12 +140,9 @@ age,workclass,education-num,marital-status,occupation,relationship,race,gender,c
 - `<=50K` - Earns $50,000 or less annually
 - `>50K` - Earns more than $50,000 annually
 
----
 
-## �️ Troubleshooting
-
+##  Troubleshooting
 ### Common Issues:
-
 1. **"adult.csv not found" error:**
    - Ensure the dataset file is in the project root directory
    - Check the file path in `app.py` line 13
@@ -160,8 +155,8 @@ age,workclass,education-num,marital-status,occupation,relationship,race,gender,c
    - Try `python -m streamlit run app.py`
    - Check if port 8501 is available
 
-## �🔮 Future Enhancements
 
+## Future Enhancements
 * **Model Explainability**: Add SHAP/LIME to explain why the model makes specific predictions
 * **Cloud Deployment**: Deploy to platforms like **AWS**, **Heroku**, or **Streamlit Cloud** for public access
 * **User Authentication**: Include login system for private and secure predictions
@@ -169,8 +164,10 @@ age,workclass,education-num,marital-status,occupation,relationship,race,gender,c
 * **Model Monitoring**: Track model performance and data drift over time
 * **API Integration**: Create REST API endpoints for external applications
 
+
 ## 🤝 Contributing
 Contributions are welcome! If you’d like to improve something or report an issue, feel free to submit a pull request or open an issue.
+
 
 ## 📬 Contact
 **Anam** – MCA Student, IGDTUW
