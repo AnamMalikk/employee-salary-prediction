@@ -1,4 +1,4 @@
-# 💼 Employee Salary Prediction Using Census Data
+# 💼 Employee Salary Prediction 
 
 ## 🎯 Objective
 
