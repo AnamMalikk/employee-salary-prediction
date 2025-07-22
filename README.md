@@ -4,8 +4,6 @@
 
 The primary objective of this project is to analyze demographic and work-related attributes to **predict whether an individual earns more than $50,000 annually**. Using the Adult Census Income dataset, this project demonstrates the complete machine learning workflow — from data cleaning to model deployment.
 
----
-
 ## 📊 Dataset Overview
 
 The dataset contains information on over 48,000 individuals, including features like:
@@ -23,8 +21,6 @@ The dataset contains information on over 48,000 individuals, including features 
 🔗 **Source**:  
 - [UCI Machine Learning Repository](https://archive.ics.uci.edu/dataset/2/adult)  
 - [Kaggle - Adult Income Dataset](https://www.kaggle.com/datasets/wenruliu/adult-income-dataset)
-
----
 
 ## 🔍 Methodology
 
@@ -66,16 +62,12 @@ Our pipeline is organized as follows:
      - Clean and styled UI with gradient effects
 
 
----
-
 ## 🧠 Project Highlights
-
 - ✔️ Complete ML pipeline from raw data to web app
 - 📈 Focus on model accuracy and class balance
 - 💡 Emphasis on readability, maintainability, and visualization
 - 🌐 Deployed via **Streamlit** for easy accessibility
 
----
 
 ## 📌 Folder Structure
 
@@ -90,8 +82,6 @@ employee-salary-prediction/
 └── README.md                              # This file
 
 ````
-
----
 
 ## 🚀 Getting Started
 
@@ -170,8 +160,6 @@ age,workclass,education-num,marital-status,occupation,relationship,race,gender,c
    - Try `python -m streamlit run app.py`
    - Check if port 8501 is available
 
----
-
 ## �🔮 Future Enhancements
 
 * **Model Explainability**: Add SHAP/LIME to explain why the model makes specific predictions
@@ -181,20 +169,13 @@ age,workclass,education-num,marital-status,occupation,relationship,race,gender,c
 * **Model Monitoring**: Track model performance and data drift over time
 * **API Integration**: Create REST API endpoints for external applications
 
----
-
 ## 🤝 Contributing
-
 Contributions are welcome! If you’d like to improve something or report an issue, feel free to submit a pull request or open an issue.
 
----
-
 ## 📬 Contact
-
 **Anam** – MCA Student, IGDTUW
 📧 Email: [mkanam.del@gmail.com](mailto:mkanam.del@gmail.com)
 
----
 
 ⭐️ If you found this project useful, please give it a **star** on GitHub!
 
