@@ -141,7 +141,7 @@ age,workclass,education-num,marital-status,occupation,relationship,race,gender,c
 - `>50K` - Earns more than $50,000 annually
 
 
-##  Troubleshooting
+## �️ Troubleshooting
 ### Common Issues:
 1. **"adult.csv not found" error:**
    - Ensure the dataset file is in the project root directory
@@ -156,7 +156,7 @@ age,workclass,education-num,marital-status,occupation,relationship,race,gender,c
    - Check if port 8501 is available
 
 
-## Future Enhancements
+## 🔮 Future Enhancements
 * **Model Explainability**: Add SHAP/LIME to explain why the model makes specific predictions
 * **Cloud Deployment**: Deploy to platforms like **AWS**, **Heroku**, or **Streamlit Cloud** for public access
 * **User Authentication**: Include login system for private and secure predictions
