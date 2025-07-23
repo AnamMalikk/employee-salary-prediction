@@ -105,6 +105,11 @@ pip install -r requirements.txt
 streamlit run app.py
 ```
 
+## Screenshots:
+<img width="1756" height="863" alt="image" src="https://github.com/user-attachments/assets/404a0236-70e5-4b56-8716-e56a56cb80bc" />
+<img width="1782" height="803" alt="image" src="https://github.com/user-attachments/assets/60dbbb41-b352-4f29-bb08-228a0af2949a" />
+<img width="1798" height="803" alt="image" src="https://github.com/user-attachments/assets/2bf0f96f-8a4a-4acd-9eb5-3d8279d88571" />
+<img width="1768" height="796" alt="image" src="https://github.com/user-attachments/assets/0d9ed56b-05c6-4936-9174-585456e9f169" />
 
 
 ## 📝 Sample Input Format
